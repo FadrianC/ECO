@@ -1,0 +1,20 @@
+body {
+    color: whitesmoke;
+    background-color: darkgray;
+    
+    font-family: Courier New, monospace;
+    font-size: 14px;
+}
+
+h1 {
+    color:#dd7127;
+    font-family: Brush Scrip MT, Brush Script Std, cursive
+    }
+
+h4 {
+    color:#DD2727;          
+    }    
+    
+p {
+  color: aqua;
+}
