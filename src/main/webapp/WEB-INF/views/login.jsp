@@ -2,16 +2,29 @@
 <%@ page session="false" %>
 <html>
 <head>
-    <link href="<c:url value="/resources/css/micss.css" />" rel="stylesheet">
+    <link href="<c:url value="/resources/css/login.css" />" rel="stylesheet">
     <title>::Home::</title>
 </head>
 <body>
-<h1>
-    Hello world!  Esto es una prueba!!!!!!
-</h1>
+<div class="login-page">
+  <div class="form">
+    <form class="register-form">
+      <input type="text" placeholder="name"/>
+      <input type="password" placeholder="password"/>
+      <input type="text" placeholder="email address"/>
+      <button>create</button>
+      <p class="message">Ya estas registrado? <a href="#">Conéctate</a></p>
+    </form>
+    <form class="login-form">
+      <p class="message">Conectarse</p>
+      <input type="text" placeholder="Usuario"/>
+      <input type="password" placeholder="Contraseña"/>
+      <button>Conectarse</button>
+      <p class="message">Olvidó su contraseña? <a href="#">Siguiente</a></p>
+      <p class="message">Usuario nuevo? <a href="#">Regístrese</a></p>
+    </form>
+  </div>
 
 <P>  The time on the server is ${serverTime}. </P>
-<a href="/editUser">IR a Usuario</a>
-<a href="/login">Conectarse</a>
 </body>
 </html>
