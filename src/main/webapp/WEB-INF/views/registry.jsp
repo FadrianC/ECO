@@ -16,13 +16,14 @@
       <li class="tab" ><img src="https://i.imgur.com/LCCJ06E.png" alt="" class="icon"/></li>
     </ul>
     
-    <form class="form">
+      <form class="form"  action="">
       <input type="text" placeholder="ID" class="textbox" />
       <input type="text" placeholder="Usuario" class="textbox" />
       <input type="text" placeholder="Contraseña" class="textbox" />
       <input type="text" placeholder="Confirmar Contraseña" class="textbox" />
       <input type="button" value="Registrarse" class="button" />
-      <input type="button" value="Volver" class="button" />
+      <input type="button" value="Volver" class="button" href="/" /> 
+      
     </form>
   </div>
 </div>

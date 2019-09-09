@@ -21,7 +21,7 @@
       <input type="password" placeholder="Contraseña"/>
       <button>Conectarse</button>
       <p class="message">Olvidó su contraseña? <a href="#">Siguiente</a></p>
-      <p class="message">Usuario nuevo? <a href="#">Regístrese</a></p>
+      <p class="message">Usuario nuevo? <a href="registry">Regístrese</a></p>
     </form>
   </div>
 
