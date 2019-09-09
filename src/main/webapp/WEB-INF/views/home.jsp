@@ -3,7 +3,7 @@
 <html>
     <head>
         <link href="<c:url value="/resources/css/home.css" />" rel="stylesheet">
-        <title>::Intro::</title>
+        <title>::Home::</title>
     </head>
     <body>
         <h1>Cambio Climático</h1>
