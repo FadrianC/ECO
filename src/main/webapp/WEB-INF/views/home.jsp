@@ -9,7 +9,7 @@
         <h1>Cambio Climático</h1>
 
         <nav>
-            <a href="">Inicio</a>
+            <a href="intro">Inicio</a>
             <a href="">Acerca de</a>
             <a href="#">ODS</a>
             <a href="#">Problemática</a>

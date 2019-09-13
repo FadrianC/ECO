@@ -5,6 +5,7 @@
 <!DOCTYPE html>
 <html>
 		<head>
+                <link href="<c:url value="/resources/css/editUsers.css" />" rel="stylesheet">
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 		<title>Spring5 MVC Hibernate Demo</title>
 		<style type="text/css">

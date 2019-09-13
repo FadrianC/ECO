@@ -3,7 +3,7 @@
 <html>
 <head>
     <link href="<c:url value="/resources/css/login.css" />" rel="stylesheet">
-    <title>::Home::</title>
+    <title>::Login::</title>
 </head>
 <body>
 <div class="login-page">
