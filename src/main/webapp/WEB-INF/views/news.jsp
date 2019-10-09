@@ -10,11 +10,12 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
     </script>
-    <title>::News::</title>
+    <title color="#829be8">::News::</title>
 </head>
 <body>
     <a href="/">Inicio</a>
     <h1>Noticias Cambio Climático</h1>
+    <hr/>
     <div id="myCarousel" class="carousel slide" data-ride="carousel" >
         <!-- Indicators -->
         <ol class="carousel-indicators">
@@ -48,7 +49,7 @@
           <span class="sr-only">Next</span>
         </a>
       </div>
-
+    <hr color="blue" size=3>
     <figure class="snip1208" float: left >
       <img src="/resources/img/cliemate.jpg" alt="sample66"/>
       <figcaption>
@@ -100,9 +101,20 @@
       </figcaption><a href="https://news.un.org/es/story/2019/09/1462092"></a>
     </figure>
 
+    <h1>Referencias</h1>
+    <a href="https://www.un.org/es/sections/issues-depth/climate-change/index.html">Naciones Unidas</a>
+    <a href="http://www.cambioclimatico.gov.co/otras-iniciativas">Instituto de Hidrología, Meteorología y Estudios Ambientales</a>
+    <a href="http://www.cambioclimatico.gov.co/otras-iniciativas">Red Ambiental de Asturias</a>
+    <a href="https://www.semana.com/noticias/cambio-climatico/104082">Semana</a>
+    <a href="https://elpais.com/tag/cambio_climatico/a">Elpais</a>
+    <a href="https://www.elespectador.com/es-el-momento-de-los-que-transforman/noticias/medio-ambiente/el-cambio-climatico-es-la-mayor-amenaza-del-medio-ambiente-articulo-718636">Elespectador</a>
+    <hr/>
     <p><footer>
       <iframe src="https://sostenibilidad.semana.com/noticias/cambio-climatico/30" width="1800" height="600" scrolling="auto" frameborder="0">  
     </footer></p>
+        <p>
+            GREEN <span>EARTH</span> | 2019
+        </p>
     
 </body>
     </html>

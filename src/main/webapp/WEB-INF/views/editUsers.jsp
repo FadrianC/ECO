@@ -5,7 +5,6 @@
 <!DOCTYPE html>
 <html>
 		<head>
-                <link href="<c:url value="/resources/css/editUsers.css" />" rel="stylesheet">
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 		<title>Spring5 MVC Hibernate Demo</title>
 		<style type="text/css">
@@ -21,6 +20,16 @@
 				border: 1px solid #565454;
 				padding: 20px;
 			}
+                        body {
+                                background: #76b852; /* fallback for old browsers */
+                                background: -webkit-linear-gradient(right, #76b852, #8DC26F);
+                                background: -moz-linear-gradient(right, #76b852, #8DC26F);
+                                background: -o-linear-gradient(right, #76b852, #8DC26F);
+                                background: linear-gradient(to left, #76b852, #8DC26F);
+                                font-family: "Roboto", sans-serif;
+                                -webkit-font-smoothing: antialiased;
+                                -moz-osx-font-smoothing: grayscale;      
+                        }
 		</style>
 	</head>
 	<body>
