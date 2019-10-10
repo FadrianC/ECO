@@ -12,17 +12,16 @@
     <title color="#829be8">::News::</title>
 </head>
 <body>
-    <a href="/">Inicio</a>
     <h1>Noticias Cambio Climático</h1>
     <nav>
-            <a href="intro">Inicio</a>
+            <a href="/">Inicio</a>
             <a href="colombia">Colombia</a>
             <a href="news">Noticias</a>
             <a href="#">Metodología</a>
             <a href="#">Problemática</a>
             <div class="animation start-home"></div>
         </nav>
-    <hr color="black"/>
+    <hr>
     <figure class="snip1208" float: left >
       <img src="/resources/img/cliemate.jpg" alt="sample66"/>
       <figcaption>
@@ -73,7 +72,7 @@
         <button>Leer mas...</button>
       </figcaption><a href="https://news.un.org/es/story/2019/09/1462092"></a>
     </figure>
-
+    
     <h1>Referencias</h1>
     <a href="https://www.un.org/es/sections/issues-depth/climate-change/index.html">Naciones Unidas</a>
     <a href="http://www.cambioclimatico.gov.co/otras-iniciativas">Instituto de Hidrología, Meteorología y Estudios Ambientales</a>
@@ -81,7 +80,7 @@
     <a href="https://www.semana.com/noticias/cambio-climatico/104082">Semana</a>
     <a href="https://elpais.com/tag/cambio_climatico/a">Elpais</a>
     <a href="https://www.elespectador.com/es-el-momento-de-los-que-transforman/noticias/medio-ambiente/el-cambio-climatico-es-la-mayor-amenaza-del-medio-ambiente-articulo-718636">Elespectador</a>
-    <hr color="black"/>
+    <hr>
     <footer>
       <iframe src="https://sostenibilidad.semana.com/noticias/cambio-climatico/30" width="1885" height="1000" scrolling="auto" frameborder="0" aling="center">  
     </footer>
