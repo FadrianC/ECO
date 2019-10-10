@@ -6,7 +6,6 @@
     <script src="/resources/js/news.js"></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
     </script>
@@ -15,41 +14,15 @@
 <body>
     <a href="/">Inicio</a>
     <h1>Noticias Cambio Climático</h1>
-    <hr/>
-    <div id="myCarousel" class="carousel slide" data-ride="carousel" >
-        <!-- Indicators -->
-        <ol class="carousel-indicators">
-          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-          <li data-target="#myCarousel" data-slide-to="1"></li>
-          <li data-target="#myCarousel" data-slide-to="2"></li>
-        </ol>
-
-        <!-- Wrapper for slides -->
-        <div class="carousel-inner">
-          <div class="item active">
-            <img src="/resources/img/fondo-del-cambio-climatico.jpg" align="center">
-          </div>
-
-          <div class="item">
-            <img src="/resources/img/tree_cut_4.jpg" alt="Chicago" align="center">
-          </div>
-
-          <div class="item">
-            <img src="/resources/img/fondo-del-cambio-climatico.jpg" alt="New York" align="center">
-          </div>
-        </div>
-
-        <!-- Left and right controls -->
-        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-          <span class="glyphicon glyphicon-chevron-left"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-        <a class="right carousel-control" href="#myCarousel" data-slide="next">
-          <span class="glyphicon glyphicon-chevron-right"></span>
-          <span class="sr-only">Next</span>
-        </a>
-      </div>
-    <hr color="blue" size=3>
+    <nav>
+            <a href="intro">Inicio</a>
+            <a href="colombia">Colombia</a>
+            <a href="news">Noticias</a>
+            <a href="#">Metodología</a>
+            <a href="#">Problemática</a>
+            <div class="animation start-home"></div>
+        </nav>
+    <hr color="black"/>
     <figure class="snip1208" float: left >
       <img src="/resources/img/cliemate.jpg" alt="sample66"/>
       <figcaption>
@@ -108,13 +81,13 @@
     <a href="https://www.semana.com/noticias/cambio-climatico/104082">Semana</a>
     <a href="https://elpais.com/tag/cambio_climatico/a">Elpais</a>
     <a href="https://www.elespectador.com/es-el-momento-de-los-que-transforman/noticias/medio-ambiente/el-cambio-climatico-es-la-mayor-amenaza-del-medio-ambiente-articulo-718636">Elespectador</a>
-    <hr/>
-    <p><footer>
-      <iframe src="https://sostenibilidad.semana.com/noticias/cambio-climatico/30" width="1800" height="600" scrolling="auto" frameborder="0">  
-    </footer></p>
-        <p>
-            GREEN <span>EARTH</span> | 2019
-        </p>
+    <hr color="black"/>
+    <footer>
+      <iframe src="https://sostenibilidad.semana.com/noticias/cambio-climatico/30" width="1885" height="1000" scrolling="auto" frameborder="0" aling="center">  
+    </footer>
+    <p>
+      GREEN <span>EARTH</span> | 2019
+    </p>
     
 </body>
     </html>

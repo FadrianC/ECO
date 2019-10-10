@@ -10,7 +10,7 @@ import org.springframework.ui.Model;
 
 /**
  *
- * @author otros
+ * @author FadrianC
  */
 @Controller
 public class newscontroller {
