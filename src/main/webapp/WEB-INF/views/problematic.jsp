@@ -3,10 +3,10 @@
 <html>
     <head>
         <link href="<c:url value="/resources/css/colombia.css" />" rel="stylesheet">
-        <title>::Inicio::</title>
+        <title>::Problematica::</title>
     </head>
     <body>
-        <h1>Cambio climático en Colombia</h1>
+        <h1>Problemáticas del cambio climático</h1>
         <nav>
             <a href="/">Inicio</a>
             <a href="colombia">Colombia</a>
