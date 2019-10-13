@@ -18,11 +18,11 @@ import org.springframework.web.servlet.view.JstlView;
 @ComponentScan(basePackages = { "com.howtodoinjava.demo.spring"})
 public class WebMvcConfig implements WebMvcConfigurer {
 
-   @Override
-   public void addResourceHandlers(ResourceHandlerRegistry registry){
-      registry.addResourceHandler("/resources/**").addResourceLocations("/resources/");
-   }
-   
+    @Override
+    public void addResourceHandlers(ResourceHandlerRegistry registry) {
+        registry.addResourceHandler("/resources/**").addResourceLocations("/resources/");
+    }
+    
    @Bean
    public InternalResourceViewResolver resolver() {
       InternalResourceViewResolver resolver = new InternalResourceViewResolver();
