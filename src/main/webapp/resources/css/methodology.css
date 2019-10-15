@@ -96,8 +96,20 @@ h3 {
     color: #000000;
     font-family: 'Raleway', Arial, sans-serif;
 }
-
-
 #tyt_wdgt_1570774431369 {
 
+}
+div#one{
+width: 450px;
+height: 300px;
+float: left; 
+background-size: 450px 300px;
+border: 1px solid black; 
+}
+div#two{
+width: 450px;
+height: 200px;
+background-color: white;
+border: 1px solid black;
+float: left;
 }

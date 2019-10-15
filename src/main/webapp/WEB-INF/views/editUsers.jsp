@@ -59,6 +59,6 @@
 				</tr>
 			</c:forEach>
 		</table>
-                <a href="/">IR a Home</a>
+                <a href="intro">IR a Home</a>
 	</body>
 </html>

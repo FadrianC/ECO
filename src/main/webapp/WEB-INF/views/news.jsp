@@ -14,7 +14,7 @@
 <body>
     <h1>Noticias cambio climático</h1>
     <nav>
-            <a href="/">Inicio</a>
+            <a href="intro">Inicio</a>
             <a href="colombia">Colombia</a>
             <a href="news">Noticias</a>
             <a href="methodology">Metodología</a>
@@ -24,50 +24,50 @@
     <hr>
     <div>
         <figure class="snip1208">
-          <img src="/resources/img/cliemate.jpg" alt="sample66"/>
+          <img src="https://www.nuevatribuna.es/media/nuevatribuna/images/2019/09/01/2019090108291259120.jpg" alt="sample66"/>
           <figcaption>
-            <h3 align="center">El cambio climático llega antes y más fuerte de lo previsto</h3>
-            <p align="justify">
+            <h3>El cambio climático llega antes y más fuerte de lo previsto</h3>
+            <p>
               La Organización Meteorológica Mundial junto a las principales organizaciones de ciencia climática del mundo revelaron este domingo un informe que demuestra la evidente y creciente brecha entre los objetivos acordados para abordar el calentamiento global y la realidad actual.
             </p>
             <button>Leer mas...</button>
           </figcaption><a href="https://news.un.org/es/story/2019/09/1462482"></a>
         </figure>
         <figure class="snip1208">
-          <img src="/resources/img/air_pollutuon.jpg" alt="sample9"/>
+          <img src="https://services.meteored.com/img/article/expertos-piden-implementar-medidas-sin-precedentes-para-combatir-el-cambio-climatico-18852-1.jpg" alt="sample9"/>
           <figcaption>
-            <h3 align="center">La lucha contra el cambio climático: un movimiento imparable</h3>
-            <p align="justify">
+            <h3>La lucha contra el cambio climático: un movimiento imparable</h3>
+            <p>
               Cuando se trata de la emergencia climática, tenemos un largo camino por recorrer, pero el movimiento ha comenzado , declaró el jueves el Secretario General de la ONU, António Guterres, en un artículo de opinión distribuido a más de 70 medios en el que reafirma su preocupación por las amenazas planteadas por un mundo en calentamiento.
             </p>
             <button>Leer mas...</button>
           </figcaption><a href="https://news.un.org/es/story/2019/10/1463332"></a>
         </figure>
         <figure class="snip1208">
-          <img src="/resources/img/threat_bear.jpg" alt="sample6"/>
+          <img src="https://estaticos.elperiodico.com/resources/jpg/1/4/oso-polar-desnutrido-1441208642341.jpg" alt="sample6"/>
           <figcaption>
-            <h3 align="center">Los compromisos de América Latina y el mundo sobre la Acción Climática</h3>
-            <p align="justify">
+            <h3>Los compromisos de América Latina y el mundo sobre la Acción Climática</h3>
+            <p>
               Jefes de Estado y de Gobierno, empresas y representantes de la sociedad civil anunciaron en la sede de la ONU en Nueva York pasos de gran alcance potencial para enfrentar el cambio climático, entre ellas, lograr la neutralidad de carbono para el 2050.  Muchos países y más de 100 ciudades, incluidas muchas de las más grandes del mundo, anunciaron nuevos pasos significativos y concretos para combatir la crisis climática.
             </p>
             <button>Leer mas...</button>
           </figcaption><a href="https://news.un.org/es/story/2019/09/1462582"></a>
         </figure>
         <figure class="snip1208">
-          <img src="/resources/img/img4.jpg" alt="sample66"/>
+          <img src="https://www.milmillas.net/wp-content/uploads/2013/08/peritomoreno.jpg" alt="sample66"/>
           <figcaption>
-            <h3 align="center">Montañas sin hielo, ríos sin agua y océanos sin vida, la catástrofe.</h3>
-            <p align="justify">
+            <h3>Montañas sin hielo, ríos sin agua y océanos sin vida, la catástrofe.</h3>
+            <p>
               Un mundo con avalanchas sepultando pueblos y ciudades de montaña, islas y costas sumergidas por el aumento del nivel del mar, y un océano cada vez más ácido, caliente e inhabitable para una gran cantidad de seres vivos, este es el futuro que le espera a la humanidad si no se actúa ya contra el cambio climático, han advertido más de 100 científicos en un nuevo informe de la ONU.
             </p>
             <button>Leer mas...</button>
           </figcaption><a href="https://news.un.org/es/story/2019/09/1462782"></a>
         </figure>
         <figure class="snip1208">
-          <img src="/resources/img/img5.jpg" alt="sample9"/>
+          <img src="https://climaticocambio.com/wp-content/2017/11/cambio-climatico.jpg" alt="sample9"/>
           <figcaption>
-            <h3 align="center">¿Cumple el mundo con sus compromisos climáticos?</h3>
-            <p align="justify">
+            <h3>¿Cumple el mundo con sus compromisos climáticos?</h3>
+            <p>
               Las Naciones Unidas se encuentran en la fase final de preparación de la Cumbre sobre la Acción Climática, que se celebrará el próximo 23 de septiembre en la sede de la ONU en Nueva York.  Se prevé que será una de sus conferencias climáticas más destacadas de los últimos tiempos, pero ¿cuáles son los avances en la lucha contra la crisis climática y cómo se están midiendo
             </p>
             <button>Leer mas...</button>

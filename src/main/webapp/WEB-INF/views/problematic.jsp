@@ -8,7 +8,7 @@
     <body>
         <h1>Problemáticas del cambio climático</h1>
         <nav>
-            <a href="/">Inicio</a>
+            <a href="intro">Inicio</a>
             <a href="colombia">Colombia</a>
             <a href="news">Noticias</a>
             <a href="methodology">Metodología</a>
