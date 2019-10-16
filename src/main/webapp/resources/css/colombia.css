@@ -1,3 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,600,700,800);
+@import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+#text {
+    margin: 80px;
+    margin-left: 350px;
+    margin-right: 350px;
+    text-align: justify;
+}
 nav {
 	margin: 27px auto 0;
 
@@ -83,15 +91,9 @@ h1 {
     text-shadow: 2px 2px 4px #000000;
     font-family: 'Raleway', Arial, sans-serif;
 }
-p {
-    position: absolute;
-    bottom: 20px;
-    width: 100%;
-    text-align: center;
-    color: #ecf0f1;
-    font-family: 'Cherry Swash',cursive;
-    font-size: 16px;
-}
-span {
-    color: #2BD6B4;
+h3 {
+    text-align: justify;
+    font-size: 18px;
+    color: #ffffff;
+    font-family: 'Raleway', Arial, sans-serif;
 }

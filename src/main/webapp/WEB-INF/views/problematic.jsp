@@ -10,20 +10,19 @@
         <nav>
             <a href="intro">Inicio</a>
             <a href="colombia">Colombia</a>
-            <a href="news">Noticias</a>
+            <a href="problematic">ODS</a>
             <a href="methodology">Metodología</a>
-            <a href="problematic">Problemática</a>
+            <a href="news">Noticias</a>
             <div class="animation start-home"></div>
         </nav>
         <hr>
-        <div style="text-align:center;">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/SX0MGvyz4v4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <div style="margin: auto;margin-top: 0px;width: 1800px;height: 500px;">
+            <div style="width: 600px;height: 500px;float: left;">
+                <iframe width="600" height="500" src="https://www.youtube.com/embed/bR2X6sqsAiY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
+            <div style="width: 1200px;height: 500px;float: left;">
+                <%@ include file="/resources/html/problematic1.html" %>
+            </div>
         </div>
-        
-        
-        <p>
-            GREEN <span>EARTH</span> | 2019
-        </p>
-
 
 </body>

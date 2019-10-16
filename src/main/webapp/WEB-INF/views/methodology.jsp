@@ -10,12 +10,12 @@
 </head>
 <body>
     <h1>Metodologías contra el cambio climático</h1>
-    <nav>
+        <nav>
             <a href="intro">Inicio</a>
             <a href="colombia">Colombia</a>
-            <a href="news">Noticias</a>
+            <a href="problematic">ODS</a>
             <a href="methodology">Metodología</a>
-            <a href="problematic">Problemática</a>
+            <a href="news">Noticias</a>
             <div class="animation start-home"></div>
         </nav>
     <hr>

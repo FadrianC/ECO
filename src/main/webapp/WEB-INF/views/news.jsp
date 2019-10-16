@@ -13,14 +13,25 @@
 </head>
 <body>
     <h1>Noticias cambio climático</h1>
-    <nav>
+        <nav>
             <a href="intro">Inicio</a>
             <a href="colombia">Colombia</a>
-            <a href="news">Noticias</a>
+            <a href="problematic">ODS</a>
             <a href="methodology">Metodología</a>
-            <a href="problematic">Problemática</a>
+            <a href="news">Noticias</a>
             <div class="animation start-home"></div>
         </nav>
+    <hr>
+        <div style="margin: auto;margin-top: 0px;width: 1800px;height: 500px;">
+            <div style="width: 600px;height: 500px;float: left;">
+                <iframe width="600" height="500" src="https://www.youtube.com/embed/wfQOpzDSLYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div style="width: 1200px;height: 500px;float: left;">
+                <%@ include file="/resources/html/news1.html" %>
+            </div>
+        </div>
+            
+    <hr>
     <hr>
     <div>
         <figure class="snip1208">
@@ -75,16 +86,14 @@
         </figure>
     </div>
     <h1>Referencias adicionales</h1>
-    <p align="center"><a title="ONU" href="https://www.un.org/es/sections/issues-depth/climate-change/index.html"><img src="/resources/img/onu.png" alt="ONU" weight="50" height="50"/></a></p>
-    <a href="https://www.un.org/es/sections/issues-depth/climate-change/index.html">Naciones Unidas</a>
-    <a href="http://www.cambioclimatico.gov.co/otras-iniciativas">Instituto de Hidrología, Meteorología y Estudios Ambientales</a>
-    <a href="http://www.cambioclimatico.gov.co/otras-iniciativas">Red Ambiental de Asturias</a>
-    <a href="https://www.semana.com/noticias/cambio-climatico/104082">Semana</a>
-    <a href="https://elpais.com/tag/cambio_climatico/a">Elpais</a>
-    <a href="https://www.elespectador.com/es-el-momento-de-los-que-transforman/noticias/medio-ambiente/el-cambio-climatico-es-la-mayor-amenaza-del-medio-ambiente-articulo-718636">Elespectador</a>
+    <p align="center"><a title="ONU" href="https://www.un.org/es/sections/issues-depth/climate-change/index.html"><img src="https://www.gob.mx/cms/uploads/action_program/main_image/12766/post_ONU.jpg" alt="ONU" weight="50" height="50"/></a></p>
+    <p align="center"><a title="IDEAM" href="http://www.ideam.gov.co/web/atencion-y-participacion-ciudadana/cambio-climatico"><img src="http://www.ideam.gov.co/documents/10182/96173/Logo+2/6e338d01-a9f2-4222-8ef0-feace607b474?t=1484171223601&imagePreview=1" alt="IDEAM" weight="50" height="50"/></a></p>
+    <p align="center"><a title="ASTURIAS" href="https://www.asturias.es/portal/site/medioambiente/menuitem.a9853809264b19f45212678ca6108a0c/?vgnextoid=295950c3f2d79110VgnVCM1000006a01a8c0RCRD&i18n.http.lang=es"><img src="https://www.asturias.es/medioambienteRecursosWeb/common/images/logo_principado.gif" alt="ASTURIAS" weight="50" height="50"/></a></p>
+    <p align="center"><a title="SEMANA" href="https://www.semana.com/noticias/cambio-climatico/104082"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Revista_semana_F.jpg" alt="SEMANA" weight="50" height="50"/></a></p>
+    <p align="center"><a title="ELPAIS" href="https://elpais.com/tag/cambio_climatico/a"><img src="http://www.brandemia.org/sites/default/files/sites/default/files/primer_logo-el_pais_2.jpg" alt="ELPAIS" weight="50" height="50"/></a></p>
+    <p align="center"><a title="ESPECTADOR" href="https://www.elespectador.com/tags/cambio-climatico"><img src="https://static.elespectador.com/images/redes_espectador.jpg" alt="ESPECTADOR" weight="50" height="50"/></a></p>
     <hr>
-    <footer>
-      <iframe src="https://sostenibilidad.semana.com/noticias/cambio-climatico/30" width="1885" height="1000" scrolling="auto" frameborder="0" aling="center">  
-    </footer>
+    <iframe src="https://sostenibilidad.semana.com/noticias/cambio-climatico/30" width="1885" height="1000" scrolling="auto" frameborder="0" aling="center"> 
+    <iframe src="https://cnnespanol.cnn.com/category/cambio-climatico/" width="1885" height="600" scrolling="auto" frameborder="0" aling="center">
 </body>
     </html>
