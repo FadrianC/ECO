@@ -30,7 +30,7 @@
                 outline: 0;
                 background: #f2f2f2;
                 border: 0;
-                
+
             }
             form button {
                 font-family: 'Raleway', Arial, sans-serif;
@@ -61,31 +61,20 @@
                 font-family: 'Raleway', Arial, sans-serif;
                 text-shadow: 2px 2px 4px #000000;
             }
+
         </style>
     </head>
     <body>
-        <p>.</p>
-        <p>.</p>
-        <p>.</p>
-        <p>.</p>
-        <p>.</p>
-        <p>.</p>
-        <p>.</p>
-        <p>.</p>
-        <p>.</p>
-        <p>.</p>
-        <p>.</p>
-        <p>.</p>
-        <form action='<spring:url value="/loginAction"/>' method="post">
+        <form action='<spring:url value="/loginAction" />' method="post">
 
             <table>
                 <tr>
                     <td>Usuario</td>
-                    <td><input type="text" name="username"></td>
+                    <td><input type="text" name="username" placeholder="Su nombre de usuario" minlength="4" maxlength="12" pattern="[A-Za-z0-9]+" title="Letras y/o números. Tamaño mínimo: 4. Tamaño máximo: 12" required ></td>
                 </tr>
                 <tr>
                     <td>Contraseña</td>
-                    <td><input type="password" name="password"></td>
+                    <td><input type="password" name="password" placeholder="Su contraseña" minlength="8" title="Letras números y/o simbolos. Tamaño mínimo: 8" required ></td>
                 </tr>
                 <tr>
                 <button style="margin: auto;width: 150px;" type="submit">Conectarse</button>
