@@ -45,13 +45,13 @@
             <div id = "one" onclick="location.href = 'https://www.sostenibilidad.com/cambio-climatico/el-aumento-del-nivel-del-mar-causas-y-consecuencias/';" style="background-image: url(http://img2.rtve.es/v/5395509?w=1600&preview=1569418341694.jpg)">
                 <h1><p>1. Aumento del nivel del mar.</p></h1>  
             </div>
-            <div id = "one" onclick="location.href = 'https://www.bbc.com/mundo/noticias-49117617';" style="background-image: url(https://www.meteorologiaenred.com/wp-content/uploads/2016/09/calor-830x553.jpg)};">
+            <div id = "one" onclick="location.href = 'https://www.bbc.com/mundo/noticias-49117617';" style="background-image: url(https://www.meteorologiaenred.com/wp-content/uploads/2016/09/calor-830x553.jpg);">
                 <h1>2. Olas de calor.</h1>    
             </div>
-            <div id = "one" onclick="location.href = 'https://www.nationalgeographic.es/medio-ambiente/cambio-climatico-sequias-e-inundaciones';" style="background-image: url(https://services.meteored.com/img/article/euroclima-sequias-e-inundaciones-en-los-andes-188271-1.jpg)};">
+            <div id = "one" onclick="location.href = 'https://www.nationalgeographic.es/medio-ambiente/cambio-climatico-sequias-e-inundaciones';" style="background-image: url(https://services.meteored.com/img/article/euroclima-sequias-e-inundaciones-en-los-andes-188271-1.jpg);">
                 <h1>3. Sequía.</h1>    
             </div>
-            <div id = "one" onclick="location.href = 'https://www.elmundo.es/ciencia/2015/04/30/55412ffa268e3ef4028b457d.html';" style="background-image: url(http://bucket-contra.s3.amazonaws.com/wp-content/uploads/2019/05/ESPECIES-EN-PELIGRO.jpg)};">
+            <div id = "one" onclick="location.href = 'https://www.elmundo.es/ciencia/2015/04/30/55412ffa268e3ef4028b457d.html';" style="background-image: url(http://bucket-contra.s3.amazonaws.com/wp-content/uploads/2019/05/ESPECIES-EN-PELIGRO.jpg);">
                 <h1>4. Especies en extinción.</h1>    
             </div>
         </div> 
@@ -59,10 +59,10 @@
             <div id = "one" onclick="location.href = 'https://www.elmundo.es/elmundosalud/2008/10/07/medicina/1223372084.html';" style="background-image: url(http://www.sophimania.pe/media/images/2016/08/494.png)">
                 <h1>5. Enfermedades.</h1>    
             </div>
-            <div id = "one" onclick="location.href = 'https://sostenibilidad.semana.com/tendencias/articulo/derretimiento-de-los-glaciares-en-el-mundo-por-el-cambio-climatico/39720';" style="background-image: url(https://www.uniradioserver.com/media/news_thumbs/201908/20190809173037_131.jpg)};">
+            <div id = "one" onclick="location.href = 'https://sostenibilidad.semana.com/tendencias/articulo/derretimiento-de-los-glaciares-en-el-mundo-por-el-cambio-climatico/39720';" style="background-image: url(https://www.uniradioserver.com/media/news_thumbs/201908/20190809173037_131.jpg);">
                 <h1>6. Desaparición de glaciares.</h1>    
             </div>
-            <div id = "one" onclick="location.href = 'http://www.rtve.es/noticias/20190429/destruccion-naturaleza-amenaza-bienestar-humano-tanto-como-cambio-climatico/1929524.shtml';" style="background-image: url(https://www.100cia.site/media/k2/items/cache/8f2055605c5591333c1e46510e02e4fe_M.jpg)};">
+            <div id = "one" onclick="location.href = 'http://www.rtve.es/noticias/20190429/destruccion-naturaleza-amenaza-bienestar-humano-tanto-como-cambio-climatico/1929524.shtml';" style="background-image: url(https://www.100cia.site/media/k2/items/cache/8f2055605c5591333c1e46510e02e4fe_M.jpg);">
                 <h1>7. Destrucción de ecosistemas.</h1>    
             </div>
         </div> 

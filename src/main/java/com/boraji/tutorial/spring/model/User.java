@@ -18,11 +18,11 @@ public class User {
     @Id
 
     @Column(name = "USERNAME")
-    @Size(min = 3, max = 12, message = "Letras y números. El nombre debe contener minimo 4 letras máximo 12.")
+    @Size(min = 4, max = 12, message = "Letras y números. El nombre debe contener minimo 4 letras máximo 12.")
     private String username;
 
     @Column(name = "PASSWORD", nullable = false)
-    @Size(min = 3, max = 12, message = "Letras, números y simbolos. La contraseña debe contener mínimo 4 letras.")
+    @Size(min = 8, max = 12, message = "Letras, números y simbolos. La contraseña debe contener mínimo 4 letras.")
     private String password;
 
     @Column(name = "ENABLED", nullable = false)

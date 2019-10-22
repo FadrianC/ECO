@@ -33,13 +33,13 @@
             <div id = "one" style="background-image: url(https://okdiario.com/img/2016/12/19/energias-renovables-mejores-b-655x368.jpg)">
                 <h1>1. Energías Renovables, ¡sí!</h1>    
             </div>
-            <div id = "one" style="background-image: url(https://www.hogarmania.com/archivos/201710/trabajos-bricolaje-ahorrar-otono-xl-668x400x80xX.jpg)};">
+            <div id = "one" style="background-image: url(https://www.hogarmania.com/archivos/201710/trabajos-bricolaje-ahorrar-otono-xl-668x400x80xX.jpg);">
                 <h1>2. Ahorrar energía</h1>    
             </div>
-            <div id = "one" style="background-image: url(https://i.ytimg.com/vi/u-WwWuUh1jw/maxresdefault.jpg)};">
+            <div id = "one" style="background-image: url(https://i.ytimg.com/vi/u-WwWuUh1jw/maxresdefault.jpg);">
                 <h1>3. Las tres R</h1>    
             </div>
-            <div id = "one" style="background-image: url(https://contactohoy.com.mx/wp-content/uploads/2017/04/Bicicleta-800x533.jpg)};">
+            <div id = "one" style="background-image: url(https://contactohoy.com.mx/wp-content/uploads/2017/04/Bicicleta-800x533.jpg);">
                 <h1>4. Transporte eficiente</h1>    
             </div>
             <div id = "two">
@@ -67,10 +67,10 @@
             <div id = "one" style="background-image: url(https://www.kochrezepte.de/wp-content/uploads/2018/08/Website_clean.jpg);">
                 <h1>5. Una dieta baja en carbono</h1>    
             </div>
-            <div id = "one" style="background-image: url(https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2019/09/27/15696071770011.jpg)};">
+            <div id = "one" style="background-image: url(https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2019/09/27/15696071770011.jpg);">
                 <h1>6. Exigir un cambio real al Gobierno</h1>    
             </div>
-            <div id = "one" style="background-image: url(https://t1.ev.ltmcdn.com/es/posts/9/1/2/img_como_plantar_un_arbol_paso_a_paso_219_600.jpg)};">
+            <div id = "one" style="background-image: url(https://t1.ev.ltmcdn.com/es/posts/9/1/2/img_como_plantar_un_arbol_paso_a_paso_219_600.jpg);">
                 <h1>7. ¡Planta un árbol!</h1>    
             </div>
             <div id = "two">
